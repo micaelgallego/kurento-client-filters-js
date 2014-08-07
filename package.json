@@ -27,6 +27,7 @@
     "kurento-client-core":"5.0.0"
   },
   "peerDependencies": {
-    "kws-media-api": "^5.0.0-dev"
+    "kurento-client-elements": "micaelgallego/kurento-client-elements-js#patch-2"
+    "kurento-client-core": "micaelgallego/kurento-client-elements-js#patch-1"
   }
 }
