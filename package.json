@@ -27,7 +27,7 @@
     "kurento-client-core":"5.0.0"
   },
   "peerDependencies": {
-    "kurento-client-elements": "micaelgallego/kurento-client-elements-js#patch-2"
+    "kurento-client-elements": "micaelgallego/kurento-client-elements-js#patch-1",
     "kurento-client-core": "micaelgallego/kurento-client-elements-js#patch-1"
   }
 }
